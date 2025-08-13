@@ -71,7 +71,6 @@
   [🔗 View Project](https://github.com/SSandeesh/vendor-efficiency-analysis-python-sql-powerbi)  
 
 ---
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
