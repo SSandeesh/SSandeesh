@@ -65,7 +65,7 @@
   [🔗 View Project](https://github.com/SSandeesh/ola-bookings-analysis-sql-excel-powerbi)  
 - 🤖 **EDA Automation with Mistral LLM** – Automated dataset summaries using LLM (Mistral).  
   [🔗 View Project](https://github.com/SSandeesh/EDA-Automation-with-Mistral-LLM)  
-- 📈 **Vendoe Efficiency Analysis** – Analyze vendor efficiency and profitability.  
+- 📈 **Vendor Efficiency Analysis** – Analyze vendor efficiency and profitability.  
   [🔗 View Project](https://github.com/SSandeesh/vendor-efficiency-analysis-python-sql-powerbi)  
 
 ---
