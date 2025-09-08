@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SANDEESH</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssandeesh&label=Profile%20views&color=0e75b6&style=flat" alt="ssandeesh" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,10 +52,8 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssandeesh&show_icons=true&locale=en&layout=compact" alt="ssandeesh" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssandeesh&" alt="ssandeesh" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssandeesh&" alt="ssandeesh" /></p>
 
-
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
 
 ---
 
